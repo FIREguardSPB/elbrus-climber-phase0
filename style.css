@@ -1,0 +1,56 @@
+body{
+  background: cyan;
+}
+
+#sun{
+  position: absolute;
+ width: 20%;
+  height: 35%;
+  border-radius: 50%;
+  background: yellow;
+  left: -100px;
+  top: -100px;
+  
+}
+
+#climb{
+ 
+background-size: contain;
+  z-index: 2;
+ margin-left: 42.8%
+}
+
+
+#hook1{
+      background: red;
+    width: 30px;
+    height: 40px;
+    position: absolute;
+  margin: 31% 0 0 -35%
+}
+#hook2{
+  background: red;
+    width: 30px;
+    height: 40px;
+    position: absolute;
+  margin: 22% 0 0 20%
+    
+}
+
+
+
+img {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: auto;
+  margin-top: 11%;
+}
+
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+#box1,#box2,#box3,#box4,#box5{
+	display:inline-block; /* Сделали все div в одну строку */
+	height:100px;
+	width:100px;
+	background: blue;
+	border: solid 5px;
+	z-index: 0;
+}
+#circle{
+	
+	background: yellow;
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;	
+}
